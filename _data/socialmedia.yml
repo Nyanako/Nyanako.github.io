@@ -13,6 +13,11 @@
   class: icon-twitter
   title: BTS Logs, Project Thoughts and Other Stuff
 
+- name: LinkedIn
+  url: https://www.linkedin.com/in/david-wild-2ab38b16b/
+  class: icon-linkedin
+  title: Connections, Network and Job History
+
 - name: Artstation
   url: https://www.artstation.com/nyanako
   class: icon-artstation
