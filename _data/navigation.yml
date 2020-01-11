@@ -13,10 +13,6 @@
   url: "/design/portfolio/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
 - title: "Search"
   url: "/search/"
   side: right
@@ -28,6 +24,10 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+
+#- title: Getting Started
+#  url: "/getting-started/"
+#  side: left
 
 # - title: "Templates"
 #   url: "/design/"
