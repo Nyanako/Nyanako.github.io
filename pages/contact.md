@@ -1,12 +1,13 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: ""
+subheadline: ""
+teaser: "Want to get in touch? Use the contact form or social links below."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+If you want to get a hold of me, then you can do so through my various social links, or by filling out the form below! 
+I'll respond as quick as I can.
 
-
- [1]: http://www.wufoo.com/
+Email: davidwild42@hotmail.co.uk   
+Mobile Number: ###########
