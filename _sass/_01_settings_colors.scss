@@ -12,28 +12,17 @@
 */
 
 
-
-/* Basics
-------------------------------------------------------------------- */
-
-$text-color:       	rgb(209, 209, 209);
-$body-font-color: 	$text-color;
-$body-bg: 			#3f3f3f;
-$topbar-color:      #292929;
-
-
-
 /* Corporate Identity Colorpalette
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #523373;		// dark turquoise
+$ci-1: #e2e2e2;		// dark turquoise
 $ci-2: #3e80c3;		// turquoise
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
 $ci-6: #874399;     // green
-
+$ci-7: #523373;     // 
 
 
 /* Foundation Color Variables
@@ -45,7 +34,10 @@ $alert-color: $ci-5;
 $success-color: $ci-6;
 $warning-color: $ci-4;
 $info-color: $ci-1;
-
+$button-color: $ci-7;
+$masthead-color: #523373;
+$code-bg-color: #000;
+$header-color: #cca3a3;
 
 
 /* Grey Scale
@@ -69,6 +61,13 @@ $grey-15: #171717;
 $grey-16: #0B0B0B;
 
 
+/* Basics
+------------------------------------------------------------------- */
+
+$text-color:       	#D1D1D1;
+$body-font-color: 	$text-color;
+$body-bg: 			$grey-14;
+$topbar-color:      $grey-14;
 
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
@@ -76,13 +75,12 @@ $grey-16: #0B0B0B;
 $topbar-bg-color: $topbar-color;
 $topbar-bg: $topbar-bg-color;
 
+$topbar-dropdown-toggle-color: $grey-2;
 
-$topbar-dropdown-toggle-color: $ci-1;
-
-$topbar-link-color: #000;
-$topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
-$topbar-link-color-active-hover: #000;
+$topbar-link-color: $text-color;
+$topbar-link-color-hover: $text-color;
+$topbar-link-color-active: $text-color;
+$topbar-link-color-active-hover: $text-color;
 
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-6;
@@ -108,21 +106,19 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-8;
+$footer-bg: $grey-12;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: $ci-2;
 
-
-$subfooter-bg: $grey-13;
+$subfooter-bg: $grey-14;
 $subfooter-color: $grey-8;
 $subfooter-link-color: $grey-8;
-
 
 
 /* Code
 ------------------------------------------------------------------- */
 
-$code-background-color: scale-color($secondary-color, $lightness: 70%);
+$code-background-color: scale-color($code-bg-color, $lightness: 80%);
 
 $highlight-background: #ffffff;
 $highlight-comment: #999988;

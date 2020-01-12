@@ -42,7 +42,7 @@ urlimg: 'https://nyanako.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "images/logo-text-nodrop.png"
 
 # Plugins
 plugins:
