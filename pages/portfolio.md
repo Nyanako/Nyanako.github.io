@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Herein lies of my work."
+title: "Herein lies all of my work."
 subheadline: "Portfolio"
 teaser: ""
 permalink: "/portfolio/"
