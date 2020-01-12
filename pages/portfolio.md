@@ -10,11 +10,16 @@ permalink: "/portfolio/"
 <div class="row t60">
     <div class="medium-6 columns b30">
         <a href="/portfolio/webster-chicago/"><img src="{{ site.urlimg }}/portfolio/webster-preview.jpg" alt=""></a>
-        <p> Webster Chicago Model 18-1R Wire Recorder (1949) made for a University Assignment</p>
+        <p> Webster Chicago Model 18-1R Wire Recorder (1949) made for a University Assignment </p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
         <a href="/portfolio/arch-viz/"><img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt=""></a>
+        <p>A house designed and mocked up for an architecture visualisation unit at University.</p>
+    </div><!-- /.medium-6.columns -->
+
+        <div class="medium-6 columns b30">
+        <a href="/portfolio/water-sim/"><img src="{{ site.urlimg }}video-preview.png" alt=""></a>
         <p>A house designed and mocked up for an architecture visualisation unit at University.</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->

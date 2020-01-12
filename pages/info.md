@@ -7,6 +7,7 @@ permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
+
 ...and so here's my website chock full of all the stuff I've done!
 
 
