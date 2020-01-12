@@ -14,8 +14,8 @@ permalink: "/portfolio/"
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
-        <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
+        <a href="/portfolio/arch-viz/"><img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt=""></a>
+        <p>A house designed and mocked up for an architecture visualisation unit at University.</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
